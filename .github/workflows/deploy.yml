@@ -1,4 +1,4 @@
-name: Firebase Continuous Deployment
+name: Heroku Deployment
 
 on:
   push:
